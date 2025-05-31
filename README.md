@@ -33,7 +33,7 @@ Welcome to my Power BI project titled **"LC dashboard"**, where I’ve visualize
 
 ## 📷 How to Add This Image to GitHub
 
-Ensure the image file `LCpng.png` is saved in the same directory as `README.md`.
+Ensure the image file `LCpng.jpg` is saved in the same directory as `README.md`.
 
 Use this markdown syntax:
 
