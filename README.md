@@ -38,7 +38,7 @@ Ensure the image file `LCpng.png` is saved in the same directory as `README.md`.
 Use this markdown syntax:
 
 ```markdown
-![Dashboard Screenshot](LCpng.png)
+![Dashboard Screenshot](LCpng.jpg)
 ```
 
 Or, if uploaded to GitHub:
