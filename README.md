@@ -41,11 +41,7 @@ Use this markdown syntax:
 ![Dashboard Screenshot](LCpng.jpg)
 ```
 
-Or, if uploaded to GitHub:
 
-```markdown
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/LCpng.png?raw=true)
-```
 
 ## 👤 About Me
 
