@@ -28,7 +28,7 @@ Welcome to my Power BI project titled **"LC dashboard"**, where I’ve visualize
 
 ## 📁 Files Included:
 - `LC dashboard.pbix` – Power BI project file  
-- `LCpng.png` – Dashboard screenshot  
+- `LCpng.jpg` – Dashboard screenshot  
 - `README.md` – Project documentation
 
 ## 📷 How to Add This Image to GitHub
@@ -38,7 +38,7 @@ Ensure the image file `LCpng.jpg` is saved in the same directory as `README.md`.
 Use this markdown syntax:
 
 ```markdown
-![Dashboard Screenshot](LCpng.jpg)
+![Dashboard Screenshot].(LCpng.jpg)
 ```
 
 
